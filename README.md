@@ -25,6 +25,7 @@ sudo pip install mako
 
 ## Structure
 
+```sh
 webpy-base
   |
   |- sessions
@@ -54,6 +55,7 @@ webpy-base
   |- forms.py
   |- view.py
  
+```
 
 ## Versions
 
